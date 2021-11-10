@@ -7,4 +7,12 @@ Aggiungere alla pagina un’immagine, presa anch’essa da un data.
 
 */
 
-console.log('hello');
+const app = new Vue({
+
+  el: '#app',
+
+  data: {
+    messaggio: 'Ciao e benvenuto'
+  }
+
+});
