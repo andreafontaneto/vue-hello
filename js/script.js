@@ -12,7 +12,8 @@ const app = new Vue({
   el: '#app',
 
   data: {
-    messaggio: 'Ciao e benvenuto'
+    messaggio: 'Ciao e benvenuto',
+    immagine: 'img/02.jpg'
   }
 
 });
